@@ -40,3 +40,10 @@ rm -rf $RPM_BUILD_ROOT
 %doc LICENSES-en.txt package-description.txt
 %{_datadir}/dict/*
 
+
+
+%changelog
+* Sun Dec 12 2010 Thierry Vignaud <tv@mandriva.org> 0.3-1mdv2011.0
++ Revision: 620614
+- import myspell-br
+
