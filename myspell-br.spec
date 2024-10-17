@@ -3,7 +3,7 @@ Summary: Breton hunspell dictionaries
 Version: 0.3
 Release: 2
 Group: System/Internationalization
-URL: http://www.drouizig.org/
+URL: https://www.drouizig.org/
 Source: http://extensions.services.openoffice.org/e-files/2207/3/dict-br_0.3.oxt
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 License: LGPLv2+
