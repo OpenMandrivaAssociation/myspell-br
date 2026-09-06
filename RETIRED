@@ -1,0 +1,7 @@
+This project is retired.
+
+Breton dictionaries are shipped as myspell-br_FR from myspell-dictionaries.
+The old myspell-br package (0.3, 2010) has been removed from cooker,
+rolling, and 6.0. Upgrades replace it via %rename on myspell-br_FR.
+
+Do not add this project back to a repository and do not rebuild it.
